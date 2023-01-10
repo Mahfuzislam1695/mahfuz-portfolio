@@ -1,11 +1,11 @@
 import React from 'react';
 
-const NavHashLink = () => {
+const Hero = () => {
     return (
         <div>
-            NavHashLink
+            Hi i am mahfuz islam
         </div>
     );
 };
 
-export default NavHashLink;
+export default Hero;
